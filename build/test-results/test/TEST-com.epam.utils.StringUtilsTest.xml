@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.epam.utils.StringUtilsTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-09-20T20:39:34" hostname="LAPTOP-T4Q340TK" time="0.009">
+  <properties/>
+  <testcase name="test_isPositiveNumber_returnTrueWhenNumberIsPositive" classname="com.epam.utils.StringUtilsTest" time="0.009"/>
+  <testcase name="test_isPositiveNumber_throwsExceptionWhenStringIsNotNumber" classname="com.epam.utils.StringUtilsTest" time="0.0"/>
+  <testcase name="test_isPositiveNumber_returnFalseWhenNumberIsNotPositive" classname="com.epam.utils.StringUtilsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
